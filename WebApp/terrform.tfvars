@@ -1,0 +1,5 @@
+bucket_prefix = "devops-directive-web-app-data"
+domain        = "domain.com"
+db_name       = "mydb"
+db_user       = "Jay"
+# db_pass = "Password"
